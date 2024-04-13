@@ -1,0 +1,164 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:backgroundTint="#D6453B">
+    <!--
+    /*
+     *	This content is generated from the API File Info.
+     *	(Alt+Shift+Ctrl+I).
+     *
+     *	@desc
+     *	@file 		android_large___1
+     *	@date 		Friday 01st of December 2023 09:58:40 AM
+     *	@title 		Page 1
+     *	@author
+     *	@keywords
+     *	@generator 	Export Kit v1.3.figma
+     *
+     */
+    -->
+    <ScrollView
+        android:id="@+id/android_large___1"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:id="@+id/content_container"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+
+            <RelativeLayout
+                android:id="@+id/page_android_large___1_ek1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="0dp"
+                android:layout_marginTop="0dp">
+
+                <View
+                    android:id="@+id/_bg__android_large___1_ek2"
+                    android:layout_width="411dp"
+                    android:layout_height="891dp"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginTop="0dp"
+                    android:background="@drawable/_bg__android_large___1_ek2_shape" />
+
+                <ImageView
+                    android:id="@+id/rectangle_3"
+                    android:layout_width="420dp"
+                    android:layout_height="300dp"
+                    android:layout_marginStart="-5dp"
+                    android:layout_marginTop="-65dp"
+                    android:contentDescription="rectangle_3"
+                    android:src="@drawable/rectangle_3" />
+
+                <ImageView
+                    android:id="@+id/signtutor_modified_1"
+                    android:layout_width="250dp"
+                    android:layout_height="230dp"
+                    android:layout_alignLeft="@id/rectangle_3"
+                    android:layout_alignTop="@id/rectangle_3"
+                    android:layout_marginStart="90dp"
+                    android:layout_marginTop="120dp"
+                    android:contentDescription="signtutor_modified_1"
+                    android:src="@drawable/signtutor_modified_1" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="320dp"
+                    android:layout_marginStart="110dp"
+                    android:fontFamily="@font/baloo_thambi"
+                    android:text="Welcome Kid!"
+                    android:textColor="@color/red"
+                    android:textSize="32sp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="190dp"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textView1"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:layout_marginStart="40dp"
+                        android:layout_marginTop="30dp"
+                        android:layout_marginEnd="40dp"
+                        android:fontFamily="@font/bree_serif" />
+
+
+                    <TextView
+                        android:id="@+id/textView4"
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_marginStart="35dp"
+                        android:layout_marginEnd="35dp" />
+
+
+                    <Button
+                        android:id="@+id/camerabutton"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="110dp"
+                        android:layout_marginEnd="20dp"
+                        android:backgroundTint="@color/orange"
+                        android:text="Tap to Learn English Alphabets"
+                        android:textAllCaps="false"
+                        android:textColor="@color/white"
+                        android:textSize="15sp"
+                        app:cornerRadius="20dp"
+                        />
+<!--
+                    <Button
+                        android:id="@+id/combineletterbutton"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="60dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginEnd="80dp"
+                        android:backgroundTint="@color/orange"
+                        android:text="Tap to Learn Words from Alphabets"
+                        android:textAllCaps="false"
+                        android:textColor="@color/white"
+                        android:textSize="15sp"
+                        app:cornerRadius="20dp" />
+
+
+-->
+
+
+                </LinearLayout>
+
+
+
+                <Button
+                    android:id="@+id/logout"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="650dp"
+                    android:layout_marginEnd="300dp"
+                    android:backgroundTint="@color/brown"
+                    android:text="Sign Out"
+                    android:textColor="@color/white"
+                    android:textSize="15sp"
+                    app:cornerRadius="20dp"
+                    app:icon="@drawable/abc_vector_test"
+                    />
+
+                <ImageView
+                    android:id="@+id/abc"
+                    android:layout_width="250dp"
+                    android:layout_height="170dp"
+                    android:layout_marginStart="200dp"
+                    android:layout_marginTop="550dp"
+                    android:src="@drawable/abc_419" />
+            </RelativeLayout>
+        </RelativeLayout>
+    </ScrollView>
+</HorizontalScrollView>

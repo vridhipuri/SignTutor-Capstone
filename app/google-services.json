@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "514525841884",
+    "firebase_url": "https://signtutoremailauth-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "signtutoremailauth",
+    "storage_bucket": "signtutoremailauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514525841884:android:cc2095af50f6f60564a719",
+        "android_client_info": {
+          "package_name": "com.example.imagepro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514525841884-qt90asfl75fjnmff8kd0v199dao8lsr8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imagepro",
+            "certificate_hash": "8662e4b0fdcf7ac4dca80e985b161a164482d6fe"
+          }
+        },
+        {
+          "client_id": "514525841884-r087ctkonvg2616gjh6o1cvi3oebqvft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7KWMPWzbqY4i2GfalaXt8935xQA7iiyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514525841884-r087ctkonvg2616gjh6o1cvi3oebqvft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

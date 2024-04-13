@@ -1,0 +1,168 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--
+    /*
+     *	This content is generated from the API File Info.
+     *	(Alt+Shift+Ctrl+I).
+     *
+     *	@desc
+     *	@file 		android_large___1
+     *	@date 		Friday 01st of December 2023 09:58:40 AM
+     *	@title 		Page 1
+     *	@author
+     *	@keywords
+     *	@generator 	Export Kit v1.3.figma
+     *
+     */
+    -->
+
+
+        <RelativeLayout android:id="@+id/content_container"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+
+
+            <RelativeLayout android:id="@+id/page_android_large___1_ek1"
+                android:layout_marginTop="0dp"
+                android:layout_marginStart="0dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                >
+
+                <View   android:id="@+id/_bg__android_large___1_ek2"
+                    android:background="@drawable/_bg__android_large___1_ek2_shape"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginTop="0dp"
+                    android:layout_width="411dp"
+                    android:layout_height="891dp" />
+
+                <ImageView
+                    android:id="@+id/rectangle_3"
+                    android:layout_width="500dp"
+                    android:layout_height="195.42dp"
+                    android:layout_marginStart="-5dp"
+                    android:layout_marginTop="-65dp"
+                    android:contentDescription="rectangle_3"
+                    android:src="@drawable/rectangle_3" />
+
+                <ImageView android:id="@+id/signtutor_modified_1"
+                    android:src="@drawable/signtutor_modified_1"
+                    android:contentDescription="signtutor_modified_1"
+                    android:layout_marginStart="200dp"
+                    android:layout_marginTop="120dp"
+                    android:layout_width="185.36dp"
+                    android:layout_height="182.51dp"
+                    android:layout_alignTop="@id/rectangle_3"
+                    android:layout_alignLeft="@id/rectangle_3"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="30dp"
+                    android:layout_marginTop="155dp"
+                    android:fontFamily="@font/baloo_thambi"
+                    android:text="Register"
+                    android:textColor="@color/orange"
+                    android:textSize="42sp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:gravity="center"
+                    android:layout_marginTop="190dp">
+
+                    <TextView
+                        android:id="@+id/textView1"
+                        android:layout_marginTop="30dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:layout_marginStart="50dp"
+                        android:layout_marginEnd="50dp" />
+
+                    <EditText
+                        android:id="@+id/email"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="35dp"
+                        android:layout_marginEnd="50dp"
+                        android:ems="6"
+                        android:hint="Email"
+                        android:inputType="textEmailAddress" />
+
+                    <TextView
+                        android:id="@+id/textView5"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:layout_marginStart="50dp"
+                        android:layout_marginEnd="50dp" />
+
+                    <EditText
+                        android:id="@+id/pwd"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="35dp"
+                        android:layout_marginEnd="50dp"
+                        android:ems="8"
+                        android:hint="Password"
+                        android:inputType="textPassword" />
+
+                    <TextView
+                        android:id="@+id/textView4"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:layout_marginStart="50dp"
+                        android:layout_marginEnd="50dp" />
+
+                    <EditText
+                        android:id="@+id/confirmpwd"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="35dp"
+                        android:layout_marginEnd="50dp"
+                        android:ems="8"
+                        android:hint="Confirm Password"
+                        android:inputType="textPassword"
+                        />
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="60dp"
+                        android:layout_marginTop="30dp"
+                        android:layout_marginEnd="60dp"
+                        app:cardCornerRadius="30dp"
+                        app:cardElevation="0dp"
+                        app:cardBackgroundColor="@color/brown"
+                        app:cardUseCompatPadding="true"> <!-- UseCompatPadding may help -->
+
+
+                        <Button
+                            android:id="@+id/register"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:backgroundTint="@color/brown"
+                            android:text="@string/register_btn"
+                            android:textColor="@color/white"
+                            android:textSize="20sp"
+                            android:gravity="center"/>
+                    </androidx.cardview.widget.CardView>
+
+                    <TextView
+                        android:id="@+id/regiterbtn"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="40dp"
+                        android:text="@string/already_have_an_account_sign_in_here"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        android:gravity="center"/>
+
+
+                </LinearLayout>
+            </RelativeLayout>
+        </RelativeLayout>
+</RelativeLayout>

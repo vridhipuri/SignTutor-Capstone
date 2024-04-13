@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- android_large___1 strings -->
+
+    <string name="app_name">SignTutor</string>
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="login_string" />
+    <string name="new_user_register_here"><u>New user? Register here.</u></string>
+    <string name="or">OR</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="already_have_an_account_sign_in_here"><u>Already have an account?\nSign in here.</u></string>
+
+    <string name="register_btn">REGISTER</string>
+</resources>

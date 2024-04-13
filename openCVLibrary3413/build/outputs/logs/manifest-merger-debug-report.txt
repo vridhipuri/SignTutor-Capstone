@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\VIT VRIDHI\Capstone Project\Project\sign app\openCVLibrary3413\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from E:\VIT VRIDHI\Capstone Project\Project\sign app\openCVLibrary3413\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from E:\VIT VRIDHI\Capstone Project\Project\sign app\openCVLibrary3413\src\main\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from E:\VIT VRIDHI\Capstone Project\Project\sign app\openCVLibrary3413\src\main\AndroidManifest.xml
+		ADDED from E:\VIT VRIDHI\Capstone Project\Project\sign app\openCVLibrary3413\src\main\AndroidManifest.xml:2:1-7:12
+		INJECTED from E:\VIT VRIDHI\Capstone Project\Project\sign app\openCVLibrary3413\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\VIT VRIDHI\Capstone Project\Project\sign app\openCVLibrary3413\src\main\AndroidManifest.xml:4:7-35
+	xmlns:android
+		ADDED from E:\VIT VRIDHI\Capstone Project\Project\sign app\openCVLibrary3413\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\VIT VRIDHI\Capstone Project\Project\sign app\openCVLibrary3413\src\main\AndroidManifest.xml:3:5-32
+uses-sdk
+ADDED from E:\VIT VRIDHI\Capstone Project\Project\sign app\openCVLibrary3413\src\main\AndroidManifest.xml:6:5-73
+INJECTED from E:\VIT VRIDHI\Capstone Project\Project\sign app\openCVLibrary3413\src\main\AndroidManifest.xml:6:5-73
+INJECTED from E:\VIT VRIDHI\Capstone Project\Project\sign app\openCVLibrary3413\src\main\AndroidManifest.xml:6:5-73
+INJECTED from E:\VIT VRIDHI\Capstone Project\Project\sign app\openCVLibrary3413\src\main\AndroidManifest.xml:6:5-73
+INJECTED from E:\VIT VRIDHI\Capstone Project\Project\sign app\openCVLibrary3413\src\main\AndroidManifest.xml:6:5-73
+	android:targetSdkVersion
+		ADDED from E:\VIT VRIDHI\Capstone Project\Project\sign app\openCVLibrary3413\src\main\AndroidManifest.xml:6:41-70
+		INJECTED from E:\VIT VRIDHI\Capstone Project\Project\sign app\openCVLibrary3413\src\main\AndroidManifest.xml
+		INJECTED from E:\VIT VRIDHI\Capstone Project\Project\sign app\openCVLibrary3413\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\VIT VRIDHI\Capstone Project\Project\sign app\openCVLibrary3413\src\main\AndroidManifest.xml:6:15-40
+		INJECTED from E:\VIT VRIDHI\Capstone Project\Project\sign app\openCVLibrary3413\src\main\AndroidManifest.xml
+		INJECTED from E:\VIT VRIDHI\Capstone Project\Project\sign app\openCVLibrary3413\src\main\AndroidManifest.xml
